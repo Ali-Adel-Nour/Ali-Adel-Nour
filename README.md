@@ -1,11 +1,11 @@
+<h1 align="center">🎸\😁/ Hi There I'm Ali Adel </h1>
+<h2 align="center">Back-End Developer💻</h2>
+
 
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" alt="Animated GIF">
 </h1>
-<h1 align="center">🎸\😁/ Hi There I'm Ali Adel </h1>
-<h2 align="center">Back-End Developer💻</h2>
-
 
 
 I'm an back-end developer ..I am an ambitious person and I love learning. I studied many computer science concepts on my own and learned many programming languages..I thrive on continuous learning and exploration. I have a strong foundation in building RESTful APIs using Node.js and Express. My experience extends to working with both SQL (PostgreSQL) and NoSQL (MongoDB) databases, leveraging ORM's like Sequelize and Mongoose.
