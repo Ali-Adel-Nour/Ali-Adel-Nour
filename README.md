@@ -1,3 +1,8 @@
+
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" alt="Animated GIF">
+</h1>
 <h1 align="center">🎸\😁/ Hi There I'm Ali Adel </h1>
 <h2 align="center">Back-End Developer💻</h2>
 
