@@ -57,6 +57,12 @@ My ability to quickly grasp new technologies and programming concepts allows me 
 [![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<h3> Productivity Stats </h3>
+
+
+<a href="https://wakatime.com/badge/user/a9d37252-372c-4d35-95a8-02c33d9fbad6/project/f1d42b60-a306-4b3d-bc76-99bc01364926"><img src="https://wakatime.com/badge/user/a9d37252-372c-4d35-95a8-02c33d9fbad6/project/f1d42b60-a306-4b3d-bc76-99bc01364926.svg" alt="Coding Time"></a>
+
+<img src="https://wakatime.com/share/@a9d37252-372c-4d35-95a8-02c33d9fbad6/0889d612-f8d3-4613-9f14-568b2dfb7d9f.svg" alt="WakaTime Activity" width="500" style="filter: invert(1);">
 
 
 ## Watch my contributions get eaten by snake 🐍
