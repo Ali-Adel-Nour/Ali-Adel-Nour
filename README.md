@@ -1,5 +1,5 @@
 <h1 align="center">🎸\😁/ Hi There I'm Ali Adel </h1>
-<h2 align="center">Software Engeneer💻</h2>
+<h2 align="center">Software Engineer💻</h2>
 
 
 
