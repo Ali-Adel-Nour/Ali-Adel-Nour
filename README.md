@@ -1,5 +1,5 @@
 <h1 align="center">🎸\😁/ Hi There I'm Ali Adel </h1>
-<h2 align="center">Back-End Developer💻</h2>
+<h2 align="center">Software Engeneer💻</h2>
 
 
 
@@ -8,7 +8,7 @@
 </h1>
 
 
-I'm an back-end developer ..I am an ambitious person and I love learning. I studied many computer science concepts on my own and learned many programming languages..I thrive on continuous learning and exploration. I have a strong foundation in building RESTful APIs using Node.js and Express. My experience extends to working with both SQL (PostgreSQL) and NoSQL (MongoDB) databases, leveraging ORM's like Sequelize and Mongoose.
+Hello there! I'm a passionate Software Engineer with a deep love for technology, especially in the backend domain. I'm ambitious and always eager to learn and explore...I have a strong foundation in building RESTful APIs using Node.js and Express. My experience extends to working with both SQL (PostgreSQL) and NoSQL (MongoDB) databases, leveraging ORM's like Sequelize and Mongoose.
 
 I possess a solid understanding of object-oriented programming (OOP) principles and embrace functional programming concepts. In fact, I have delved into functional programming languages such as Lisp and Scheme, broadening my perspective on programming paradigms.
 
