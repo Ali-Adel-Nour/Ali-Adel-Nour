@@ -52,7 +52,7 @@ My ability to quickly grasp new technologies and programming concepts allows me 
 [![Dev.to](https://img.shields.io/badge/Dev.to-aliadelnour-000000?logo=dev.to)](https://dev.to/aliadelnour)
 [![Substack](https://img.shields.io/badge/Substack-alinouraldin-51C7EF?logo=substack)](https://substack.com/@alinouraldin)
 [![Medium](https://img.shields.io/badge/Medium-aliiiadel841-12100E?logo=medium)](https://medium.com/@aliiiadel841)
-
+[![Goodreads](https://img.shields.io/badge/Goodreads-Ali_Nour_Al_Din-21B352?logo=goodreads)](https://www.goodreads.com/user/show/123059922-ali-nour-al-din)
 
 
 <h2>Github Stats</h2>
