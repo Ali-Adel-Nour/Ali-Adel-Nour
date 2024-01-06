@@ -48,6 +48,11 @@ My ability to quickly grasp new technologies and programming concepts allows me 
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-ali007-0A0A23?logo=freecodecamp)](https://www.freecodecamp.org/ali007)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-colorlessaffect21-FA5833?logo=bootstrap)](https://boot.dev/u/ali_nour_aldin)
 [![DataCamp](https://img.shields.io/badge/DataCamp-AliNourAlDin-03EF62?logo=datacamp)](https://app.datacamp.com/profile/AliNourAlDin)
+[![Hashnode](https://img.shields.io/badge/Hashnode-ali007-2962FF?logo=hashnode)](https://hashnode.com/@ali007)
+[![Dev.to](https://img.shields.io/badge/Dev.to-aliadelnour-000000?logo=dev.to)](https://dev.to/aliadelnour)
+[![Substack](https://img.shields.io/badge/Substack-alinouraldin-51C7EF?logo=substack)](https://substack.com/@alinouraldin)
+[![Medium](https://img.shields.io/badge/Medium-aliiiadel841-12100E?logo=medium)](https://medium.com/@aliiiadel841)
+
 
 
 <h2>Github Stats</h2>
