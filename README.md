@@ -40,19 +40,23 @@ My ability to quickly grasp new technologies and programming concepts allows me 
 
 
 ## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ali-nour-al-din-1013b0199/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=dev.to)](https://dev.to/aliadelnour)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode)](https://hashnode.com/@ali007)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode)](https://leetcode.com/alinouraldin/)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-FA5833?logo=bootstrap)](https://boot.dev/u/ali_nour_aldin)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank)](https://www.hackerrank.com/Ali_NourAlDin)
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-alinouraldin)](https://hackernoon.com/u/alinouraldin)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/aliiiadel/)
+[![Goodreads](https://img.shields.io/badge/Goodreads-21B352?logo=goodreads)](https://www.goodreads.com/user/show/123059922-ali-nour-al-din)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp)](https://www.freecodecamp.org/ali007)
+[![Showwcase](https://img.shields.io/badge/Showwcase-blue)](https://www.showwcase.com/ali-adel-nour)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium)](https://medium.com/@aliiiadel841)
+[![Substack](https://img.shields.io/badge/Substack-51C7EF?logo=substack)](https://substack.com/@alinouraldin)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Adel-blue?logo=linkedin)](https://www.linkedin.com/in/ali-nour-al-din-1013b0199/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Ali_NourAlDin-2EC866?logo=hackerrank)](https://www.hackerrank.com/Ali_NourAlDin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-alinouraldin-FFA116?logo=leetcode)](https://leetcode.com/alinouraldin/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-aliiiadel-0F9D58?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/aliiiadel/)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-ali007-0A0A23?logo=freecodecamp)](https://www.freecodecamp.org/ali007)
-[![Boot.dev](https://img.shields.io/badge/Boot.dev-colorlessaffect21-FA5833?logo=bootstrap)](https://boot.dev/u/ali_nour_aldin)
-[![DataCamp](https://img.shields.io/badge/DataCamp-AliNourAlDin-03EF62?logo=datacamp)](https://app.datacamp.com/profile/AliNourAlDin)
-[![Hashnode](https://img.shields.io/badge/Hashnode-ali007-2962FF?logo=hashnode)](https://hashnode.com/@ali007)
-[![Dev.to](https://img.shields.io/badge/Dev.to-aliadelnour-000000?logo=dev.to)](https://dev.to/aliadelnour)
-[![Substack](https://img.shields.io/badge/Substack-alinouraldin-51C7EF?logo=substack)](https://substack.com/@alinouraldin)
-[![Medium](https://img.shields.io/badge/Medium-aliiiadel841-12100E?logo=medium)](https://medium.com/@aliiiadel841)
-[![Goodreads](https://img.shields.io/badge/Goodreads-Ali_Nour_Al_Din-21B352?logo=goodreads)](https://www.goodreads.com/user/show/123059922-ali-nour-al-din)
+
+
+
 
 
 <h2>Github Stats</h2>
