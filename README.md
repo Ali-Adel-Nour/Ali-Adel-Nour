@@ -8,12 +8,11 @@
 <a href="https://app.daily.dev/alinouraldin"><img src="https://api.daily.dev/devcards/57fa51bb4f564956b0a567ae778e7c12.png?r=hxv" width="400" alt="Ali Nour Aldin's Dev Card"/></a>
 </h1>
 
+<b>
+Hi there! I’m a Software Engineer who’s really into technology, especially backend development. I love diving into new tech and always look for ways to learn and grow. I’ve got a solid background in building reliable and scalable systems and enjoy solving problems with code.
+I’m comfortable with both object-oriented and functional programming, and I’m always excited to tackle new challenges. I’m keen to keep learning and working on cool projects with others in the tech world.
 
-Hello there! I'm a passionate Software Engineer with a deep love for technology, especially in the backend domain. I'm ambitious and always eager to learn and explore...I have a strong foundation in building RESTful APIs using Node.js and Express. My experience extends to working with both SQL (PostgreSQL) and NoSQL (MongoDB) databases, leveraging ORM's like Sequelize and Mongoose.
-
-I possess a solid understanding of object-oriented programming (OOP) principles and embrace functional programming concepts. In fact, I have delved into functional programming languages such as Lisp and Scheme, broadening my perspective on programming paradigms.
-
-My ability to quickly grasp new technologies and programming concepts allows me to adapt swiftly to evolving industry trends. I am constantly seeking opportunities to enhance my skills and knowledge in the field of computer science.
+</b>
 
    <p align="left">
 
