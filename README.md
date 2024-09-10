@@ -39,7 +39,7 @@ My ability to quickly grasp new technologies and programming concepts allows me 
 
 
 
-## Connect with Me
+## Follow My Journey
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ali-nour-al-din-1013b0199/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=dev.to)](https://dev.to/aliadelnour)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode)](https://hashnode.com/@ali007)
@@ -53,6 +53,8 @@ My ability to quickly grasp new technologies and programming concepts allows me 
 [![Showwcase](https://img.shields.io/badge/Showwcase-blue)](https://www.showwcase.com/ali-adel-nour)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium)](https://medium.com/@aliiiadel841)
 [![Substack](https://img.shields.io/badge/Substack-51C7EF?logo=substack)](https://substack.com/@alinouraldin)
+[![VJudge](https://img.shields.io/badge/VJudge-1E90FF?logo=codeforces)](https://vjudge.net/user/ali_adel007)
+
 
 
 
