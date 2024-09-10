@@ -53,7 +53,7 @@ My ability to quickly grasp new technologies and programming concepts allows me 
 [![Showwcase](https://img.shields.io/badge/Showwcase-blue)](https://www.showwcase.com/ali-adel-nour)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium)](https://medium.com/@aliiiadel841)
 [![Substack](https://img.shields.io/badge/Substack-51C7EF?logo=substack)](https://substack.com/@alinouraldin)
-[![VJudge](https://img.shields.io/badge/VJudge-1E90FF?logo=codeforces)](https://vjudge.net/user/ali_adel007)
+[![VJudge](https://img.shields.io/badge/VJudge-1E90FF?logo=vjudge)](https://vjudge.net/user/ali_adel007)
 
 
 
