@@ -6,7 +6,7 @@
 <h1 align="center">
   <!--<img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" alt="Animated GIF"> -->
 <!--<a href="https://app.daily.dev/alinouraldin"><img src="https://api.daily.dev/devcards/57fa51bb4f564956b0a567ae778e7c12.png?r=hxv" width="400" alt="Ali Nour Aldin's Dev Card"/></a>-->
-<a href="https://app.daily.dev/alinouraldin"><img src="https://api.daily.dev/devcards/v2/K5aQjsHPjGOP2AkniZbNZ.png?type=default&r=k54" width="356" alt="Ali Nour Aldin's Dev Card"/></a>
+<a href="https://app.daily.dev/alinouraldin"><img src="https://api.daily.dev/devcards/v2/K5aQjsHPjGOP2AkniZbNZ.png?type=default&r=4cm" width="356" alt="Ali Nour Aldin's Dev Card"/></a>
 </h1>
 
 <b>
