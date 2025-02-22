@@ -34,6 +34,7 @@ I’m comfortable with both object-oriented and functional programming, and I’
 <img align="left" alt="Elasticsearch" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 
 <br />
