@@ -38,8 +38,16 @@ I’m comfortable with both object-oriented and functional programming, and I’
   <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
 
+
+
+
 <!-- Break added here for neatness -->
 <br clear="left" /><br />
+
+### 💻 Tools I Use Daily
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
@@ -59,14 +67,16 @@ I’m comfortable with both object-oriented and functional programming, and I’
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium)](https://medium.com/@aliiiadel841)
 [![Substack](https://img.shields.io/badge/Substack-51C7EF?logo=substack)](https://substack.com/@alinouraldin)
 [![VJudge](https://img.shields.io/badge/VJudge-1E90FF?logo=vjudge)](https://vjudge.net/user/ali_adel007)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Adel-Nour&label=Profile%20views&color=0e75b6&style=flat" alt="alinouraldin" /> </p>
+
+
+### 🌱 Currently Learning
+- NestJS
+- RabbitMQ
 
 
 
-
-
-
-
-<h2>Github Stats</h2>
+<h2>GitHub Stats</h2>
 
 [![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -91,4 +101,4 @@ I’m comfortable with both object-oriented and functional programming, and I’
   />
 </picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Adel-Nour&label=Profile%20views&color=0e75b6&style=flat" alt="alinouraldin" /> </p>
+
