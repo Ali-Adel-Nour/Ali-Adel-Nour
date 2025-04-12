@@ -91,4 +91,4 @@ I’m comfortable with both object-oriented and functional programming, and I’
   />
 </picture>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Adel-Nour&label=Profile%20views&color=0e75b6&style=flat" alt="alinouraldin" /> </p>
