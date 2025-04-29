@@ -72,7 +72,6 @@ I’m comfortable with both object-oriented and functional programming, and I’
 
 ### 🌱 Currently Learning
 - NestJS
-- RabbitMQ
 - Go (Iris)
 
 
