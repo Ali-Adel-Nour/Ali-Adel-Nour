@@ -67,7 +67,13 @@ I’m comfortable with both object-oriented and functional programming, and I’
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium)](https://medium.com/@aliiiadel841)
 [![Substack](https://img.shields.io/badge/Substack-51C7EF?logo=substack)](https://substack.com/@alinouraldin)
 [![VJudge](https://img.shields.io/badge/VJudge-1E90FF?logo=vjudge)](https://vjudge.net/user/ali_adel007)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Adel-Nour&label=Profile%20views&color=0e75b6&style=flat" alt="alinouraldin" /> </p>
+<p align="left">
+  <a href="https://github.com/sponsors/Ali-Adel-Nour">
+    <img src="https://img.shields.io/badge/Sponsor-%F0%9F%A4%97-pink?style=flat-square&logo=githubsponsors" alt="Sponsor Ali Adel Nour" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ali-Adel-Nour&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
 
 
 ### 🌱 Currently Learning
