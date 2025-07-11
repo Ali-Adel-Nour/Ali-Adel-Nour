@@ -43,9 +43,9 @@ I’m comfortable with both object-oriented and functional programming, and I’
   <br><br>
   <img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://nestjs.com/img/logo-small.svg" />
   <img align="left" alt="RabbitMQ" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />
-  <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
-  <img align="left" alt="Iris Go" width="50px" style="padding-right:10px;" src="https://img.shields.io/badge/Iris-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img align="left" alt="Nx" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" />
+  <img align="left" alt="Jenkins" width="30px" style="padding-right:20px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+  <img align="left" alt="Iris Go" width="50px" style="padding-right:20px;" src="https://img.shields.io/badge/Iris-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img align="left" alt="Nx" width="40px" style="padding-right:20px;" src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" />
   
 
 </p>
