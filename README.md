@@ -18,9 +18,12 @@ I’m comfortable with both object-oriented and functional programming, and I’
    <p align="left">
 
 ### 🧰 Tech Stacks
-<p>
+
+ <!-- Tech Stack Icons -->
+<p align="left">
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Express.js" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -36,6 +39,15 @@ I’m comfortable with both object-oriented and functional programming, and I’
   <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <br><br>
+  <img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://nestjs.com/img/logo-small.svg" />
+  <img align="left" alt="Nx" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" />
+  <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
+  <img align="left" alt="RabbitMQ" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />
+  <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+  <img align="left" alt="Iris Go" width="50px" style="padding-right:10px;" src="https://img.shields.io/badge/Iris-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  
+
 </p>
 
 
