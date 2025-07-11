@@ -89,8 +89,9 @@ I’m comfortable with both object-oriented and functional programming, and I’
 
 
 ### 🌱 Currently Learning
-- NestJS
-- Go (Iris)
+- S3 Buckets
+- Cloud Watch
+- Apache Pulsar 
 
 
 
