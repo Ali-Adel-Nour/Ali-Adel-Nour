@@ -89,9 +89,9 @@ I’m comfortable with both object-oriented and functional programming, and I’
 
 
 ### 🌱 Currently Learning
-- S3 Buckets
-- Cloud Watch
-- Apache Pulsar 
+- Web3
+- Blockchain
+- Smart Contacts
 
 
 
