@@ -92,7 +92,7 @@ I’m comfortable with both object-oriented and functional programming, and I’
 ### 🌱 Currently Learning
 - Distributed Systems
 - System Design
-- Web3
+- Blockchain
 
 
 
