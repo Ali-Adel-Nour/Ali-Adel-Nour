@@ -4,11 +4,11 @@
 
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" alt="Animated GIF"> 
-  </h1>
+<!--  <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" alt="Animated GIF"> -->
+<!--   </h1>-->
 <!--<a href="https://app.daily.dev/alinouraldin"><img src="https://api.daily.dev/devcards/57fa51bb4f564956b0a567ae778e7c12.png?r=hxv" width="400" alt="Ali Nour Aldin's Dev Card"/></a>-->
-<!--<a href="https://app.daily.dev/alinouraldin"><img src="https://api.daily.dev/devcards/v2/K5aQjsHPjGOP2AkniZbNZ.png?type=default&r=4cm" width="356" alt="Ali Nour Aldin's Dev Card"/></a>  
-</h1>-->
+<a href="https://app.daily.dev/alinouraldin"><img src="https://api.daily.dev/devcards/v2/K5aQjsHPjGOP2AkniZbNZ.png?type=default&r=4cm" width="356" alt="Ali Nour Aldin's Dev Card"/>
+</h1>
 
 <b>
 Hi there! I’m a Software Engineer who’s really into computer science and technology, especially backend development. I love diving into new tech and always look for ways to learn and grow. I’ve got a solid background in building reliable and scalable systems and enjoy solving problems with code.
