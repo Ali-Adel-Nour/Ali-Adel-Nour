@@ -11,8 +11,8 @@
 </h1>
 
 <b>
-Hi there! I’m a Software Engineer who’s really into computer science and technology, especially backend development. I love diving into new tech and always look for ways to learn and grow. I’ve got a solid background in building reliable and scalable systems and enjoy solving problems with code.
-I’m comfortable with both object-oriented and functional programming, and I’m always excited to tackle new challenges. I’m keen to keep learning and working on cool projects with others in the tech world.
+Hi there! I’m a Software Engineer who loves working with technology, especially backend development and blockchain. I enjoy learning new things, building systems that are reliable and scalable, and solving problems.
+I’m always curious to explore new tools and ideas, and I really enjoy working with others on exciting projects that make an impact.
 
 </b>
 
