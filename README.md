@@ -47,6 +47,9 @@ I’m always curious to explore new tools and ideas, and I really enjoy working 
   <img align="left" alt="Jenkins" width="30px" style="padding-right:20px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
   <img align="left" alt="Iris Go" width="50px" style="padding-right:20px;" src="https://img.shields.io/badge/Iris-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img align="left" alt="Nx" width="40px" style="padding-right:20px;" src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" />
+ <img align="left" alt="Solidity" style="padding-right:10px;" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white" />
+  <img align="left" alt="Hardhat" style="padding-right:10px;" src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" />
+  <img align="left" alt="Chainlink" style="padding-right:10px;" src="https://img.shields.io/badge/Chainlink-2A5ADA?style=for-the-badge&logo=Chainlink&logoColor=white" />
   
 
 </p>
